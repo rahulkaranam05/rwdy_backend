@@ -1,6 +1,6 @@
-package com.klu.ecommerce.controller;
+package com.klu.rwdy.controller;
 
-import com.klu.ecommerce.service.UserService;
+import com.klu.rwdy.service.UserService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import java.util.Map;

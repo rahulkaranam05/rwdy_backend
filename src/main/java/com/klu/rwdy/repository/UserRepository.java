@@ -1,6 +1,6 @@
-package com.klu.ecommerce.repository;
+package com.klu.rwdy.repository;
 
-import com.klu.ecommerce.entity.User;
+import com.klu.rwdy.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.Optional;

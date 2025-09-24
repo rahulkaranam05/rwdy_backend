@@ -1,8 +1,8 @@
-package com.klu.ecommerce.service;
+package com.klu.rwdy.service;
 
-import com.klu.ecommerce.entity.User;
-import com.klu.ecommerce.repository.UserRepository;
-import com.klu.ecommerce.security.JwtUtil;
+import com.klu.rwdy.entity.User;
+import com.klu.rwdy.repository.UserRepository;
+import com.klu.rwdy.security.JwtUtil;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import java.util.Optional;

@@ -1,7 +1,7 @@
-package com.klu.ecommerce.controller;
+package com.klu.rwdy.controller;
 
-import com.klu.ecommerce.entity.Product;
-import com.klu.ecommerce.repository.ProductRepository;
+import com.klu.rwdy.entity.Product;
+import com.klu.rwdy.repository.ProductRepository;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.UrlResource;
 import org.springframework.http.HttpHeaders;

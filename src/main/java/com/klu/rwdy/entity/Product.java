@@ -1,4 +1,4 @@
-package com.klu.ecommerce.entity;
+package com.klu.rwdy.entity;
 
 import javax.persistence.*;
 

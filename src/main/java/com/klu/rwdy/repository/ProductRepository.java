@@ -1,5 +1,5 @@
-package com.klu.ecommerce.repository;
-import com.klu.ecommerce.entity.Product;
+package com.klu.rwdy.repository;
+import com.klu.rwdy.entity.Product;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;

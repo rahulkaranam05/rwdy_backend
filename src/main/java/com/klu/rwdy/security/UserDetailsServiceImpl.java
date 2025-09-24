@@ -1,6 +1,6 @@
-package com.klu.ecommerce.security;
+package com.klu.rwdy.security;
 
-import com.klu.ecommerce.repository.UserRepository;
+import com.klu.rwdy.repository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

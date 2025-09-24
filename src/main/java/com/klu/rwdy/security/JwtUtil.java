@@ -1,4 +1,4 @@
-package com.klu.ecommerce.security;
+package com.klu.rwdy.security;
 
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;

@@ -1,10 +1,10 @@
-package com.klu.ecommerce;
+package com.klu.rwdy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EcommerceApplicationTests {
+class RwdyApplicationTests {
 
 	@Test
 	void contextLoads() {
